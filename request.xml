@@ -1,0 +1,26 @@
+<Message>
+	<header>
+		<channelID>CHANNEL.SERVICE.S_DICT_BASE</channelID>
+		<ver>100</ver>
+		<sourceSystemID>01_FC</sourceSystemID>
+		<serialNumber>APP.YYGH-2017011314233324510001</serialNumber>
+		<status>
+			<code />
+			<exptMsg />
+		</status>
+		<timestamp>201701131423332451</timestamp>
+		<ext />
+	</header>
+	<body>
+		<request>
+			<startTime>2018-04-16 00:00:00</startTime>
+			<endTime>2018-04-17 00:00:00</endTime>
+			<pageNo>1</pageNo>
+			<pageSize>100</pageSize>
+			<pageCount>1</pageCount>
+			<total>1</total>
+			<dictTypeCode>SEX</dictTypeCode>
+			<incrementFlag>2</incrementFlag>
+		</request>
+	</body>
+</Message>
